@@ -1,0 +1,27 @@
+{
+  "name": "login_registration_using_expressjs",
+  "version": "1.0.0",
+  "description": "https://www.codexpedia.com/node-js/node-js-basic-auth-in-express-js/",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tanviredu/LOGIN_REGISTRATION_USING_EXPRESSJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tanviredu/LOGIN_REGISTRATION_USING_EXPRESSJS/issues"
+  },
+  "homepage": "https://github.com/tanviredu/LOGIN_REGISTRATION_USING_EXPRESSJS#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.9.27",
+    "nunjucks": "^3.2.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
